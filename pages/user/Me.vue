@@ -1,4 +1,5 @@
-// frontend/pages/user/Me.vue <template>
+// frontend/pages/user/Me.vue
+<template>
   <div>
     <div class="header">
       <h1>My Website</h1>

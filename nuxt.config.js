@@ -1,5 +1,8 @@
 export default {
   target: 'static',
+  router: {
+    base: '/ite18_project/'
+  },
   axios: {
     // Base URL of the API
     baseURL: 'http://localhost:1337',
